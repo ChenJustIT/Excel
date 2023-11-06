@@ -1,6 +1,5 @@
-# Excel
-Some main functions about Excel
-# Excel Project: Analyzing GDP Data from Wealth of Nations Dataset
+
+# Excel Project: Analyzing GDP Data from Wealth of Nations Dataset with some main functions on Excel
 
 In this GitHub repository, I demonstrate my proficiency with Microsoft Excel by working with the GDP sheet of the Wealth of Nations Excel dataset. I have highlighted various essential Excel functions, including password protection, data formatting, table creation, data filtering, chart creation, chart customization, sheet management, data sorting, and colour the background.
 
