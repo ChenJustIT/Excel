@@ -23,7 +23,6 @@ In this GitHub repository, I demonstrate my proficiency with Microsoft Excel by 
 
 9. **Create a New Bar Chart for the Top 20 Countries:** I created a bar chart to display the top 20 highest-ranking countries, and I placed it underneath the table for better data representation.
 
-10. **Colour the background by highlighting the area underneath the table as shown below. Find 
-the add a fill colour icon and sellect a colour. 
+10. Colour the background by highlighting the area underneath the table as shown below. Find the add a fill colour icon and sellect a colour. 
 
 
