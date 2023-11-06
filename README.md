@@ -34,6 +34,9 @@ In this GitHub repository, I demonstrate my proficiency with Microsoft Excel by 
 ![image](https://github.com/ChenJustIT/Excel/assets/150026038/0ea7161f-4657-4570-b6ea-da67aa6c608f)
 
 10. **Color the Background Underneath the Table:** I added a background color to the area beneath the table. To do this, you can find the "add a fill color" icon and select a suitable color.
-![image](https://github.com/ChenJustIT/Excel/assets/150026038/e7e6d261-2543-4c8c-9635-e0124c36e9cb)
+
+  ![image](https://github.com/ChenJustIT/Excel/assets/150026038/3108ef72-b8b6-4192-961b-f210263d668a)
+
+
 
 
