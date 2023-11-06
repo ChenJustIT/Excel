@@ -40,3 +40,38 @@ In this GitHub repository, I demonstrate my proficiency with Microsoft Excel by 
 
 
 
+
+I continue to demonstrate my proficiency with Microsoft Excel by working with the GDP sheet of the Wealth of Nations Excel dataset. This project includes additional Excel functions, such as creating macro buttons, integrating with Microsoft Word, adding headers and footers, and managing files.
+
+## Project Functions
+
+1. **Create Macro Buttons:** I added three macro buttons to the sheet for various tasks - printing the sheet, saving the file, and copying the sheet. For copying, I used a macro to highlight the area to be copied and assigned it to the copy button.
+![image](https://github.com/ChenJustIT/Excel/assets/150026038/e9d8a95e-a327-475c-a579-537e00012434)
+![image](https://github.com/ChenJustIT/Excel/assets/150026038/d01c8b68-a641-40e6-b5be-f85f5e49e52b)
+![image](https://github.com/ChenJustIT/Excel/assets/150026038/b3c4b503-5df2-4035-b472-8e62a0583f69)
+![image](https://github.com/ChenJustIT/Excel/assets/150026038/1b07896f-9100-498e-a315-4eb332e8d94e)
+
+2. **Copy the Sheet to a New Word Document:** Using the copy macro, I copied the sheet and pasted it into a new Word document while preserving the formatting. I titled the page 'GDP (Gross domestic product)'.
+![image](https://github.com/ChenJustIT/Excel/assets/150026038/261e7b2b-0819-4843-ba30-251ac68754f0)
+
+3. **Save Word Document:** I saved the Word document as 'Word Gross domestic product report 1'.
+
+4. **Add Headers and Footers:** I added headers and footers to the Excel table. To do this, I selected the 'View' tab and chose the 'Page Layout' icon. I entered my name and 'GLA DATA 1' in the header and today's date, 'Assignment 1', and 'Data Visualization' in the footer.
+![image](https://github.com/ChenJustIT/Excel/assets/150026038/51ee9a1c-f8bc-488f-a8e0-b0969f856006)
+![image](https://github.com/ChenJustIT/Excel/assets/150026038/0c824ad1-acaf-4781-b6b2-6aa05e8e72dc)
+
+5. **Return to Normal View:** After adding headers and footers, I returned to the normal view.
+   
+![image](https://github.com/ChenJustIT/Excel/assets/150026038/0a9dc46f-3c04-44b8-885f-9b35035f99b1)
+
+6. **Save Excel Table:** I saved the Excel table as 'Excel Gross domestic product report 1'.
+![image](https://github.com/ChenJustIT/Excel/assets/150026038/6bf2d676-38fd-473b-acbf-36baafb37bab)
+
+7. **Close Word Document:** Finally, I closed the Word document, leaving the Excel file open.
+
+
+
+
+
+
+
