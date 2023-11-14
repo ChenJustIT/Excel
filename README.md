@@ -20,10 +20,8 @@ In this GitHub repository, I demonstrate my proficiency with Microsoft Excel by 
 ![image](https://github.com/ChenJustIT/Excel/assets/150026038/a364b271-6fe2-48bb-9858-d93ed9d46c34)
 
 6. **Chart Customization:** I creatively customized the chart by adding a title, X and Y axis labels, and making it visually pleasing and informative.
-![image](https://github.com/ChenJustIT/Excel/assets/150026038/c00443a5-a5c5-4e3a-ba0b-cd7a515ffcde)
 
 7. **Move the Chart to a New Sheet Tab:** I moved the chart to a new sheet tab and labeled it appropriately, ensuring organized and easy access to the visualization.
-![image](https://github.com/ChenJustIT/Excel/assets/150026038/1f4df45b-9cca-4dc3-9c9e-8f8ac52a3453)
 ![image](https://github.com/ChenJustIT/Excel/assets/150026038/8185712a-c4a8-43e1-9dc5-057086c8a674)
 ![image](https://github.com/ChenJustIT/Excel/assets/150026038/5d10dbff-cca3-46d2-8b05-c6cb9e23e960)
 
@@ -67,7 +65,7 @@ I continue to demonstrate my proficiency with Microsoft Excel by working with th
 6. **Save Excel Table:** I saved the Excel table as 'Excel Gross domestic product report 1'.
 ![image](https://github.com/ChenJustIT/Excel/assets/150026038/6bf2d676-38fd-473b-acbf-36baafb37bab)
 
-7. **Close Word Document:** Finally, I closed the Word document, leaving the Excel file open.
+## End
 
 
 
